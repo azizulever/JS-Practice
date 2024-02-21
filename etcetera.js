@@ -5,4 +5,3 @@ console.log("NoHello!")
     let b = 69
     console.log(typeof(a), typeof(b))
 }
-
